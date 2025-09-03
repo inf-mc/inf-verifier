@@ -2,7 +2,7 @@ import { Context, h, Schema, Session, } from 'koishi'
 import mysql from 'mysql2/promise'
 
 export const name = 'inf-verifier'
-export const usage = '基于mysql数据库的游戏ID入群自动验证 by @ lingran7031'
+export const usage = '基于mysql数据库的游戏ID入群自动验证的koishi插件 by @ lingran7031'
 
 export interface Config {
   notify_group: string

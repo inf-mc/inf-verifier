@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-inf-verifier",
-  "description": "test",
+  "description": "基于mysql数据库的游戏ID入群自动验证的koishi插件",
   "version": "0.0.1",
   "contributors": [                         
     "lingran7031"
@@ -15,7 +15,7 @@
   "homepage": "https://example.com",     
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lingran7031/inf-verifier.git"
+    "url": "git+https://github.com/inf-mc/inf-verifier"
   }, 
   "keywords": [
     "chatbot",
